@@ -1,3 +1,7 @@
+/*
+ * java EvaluatorTester 2+3*4
+ */
+
 public class EvaluatorTester {
   public static void main(String[] args) {
     Evaluator evaluator = new Evaluator();
